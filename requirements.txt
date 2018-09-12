@@ -2,6 +2,6 @@ numpy
 scipy
 scikit-learn
 
-gensim
+networkx
 tensorflow-gpu
 #tensorflow
