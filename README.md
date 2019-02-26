@@ -57,10 +57,12 @@ You can choose between the following models:
 Please cite our paper if you use this code in your own work:
 
 ```
-@article{xujiang2018gcn_vae,
-  title={Deep Learning based Scalable Inference of Uncertain Opinions},
-  author={Xujiang Zhao, Feng Chen and Jin-Hee Cho},
-  journal={ICDM},
-  year={2018}
+@inproceedings{zhao2018deep,
+  title={Deep Learning Based Scalable Inference of Uncertain Opinions},
+  author={Zhao, Xujiang and Chen, Feng and Cho, Jin-Hee},
+  booktitle={2018 IEEE International Conference on Data Mining (ICDM)},
+  pages={807--816},
+  year={2018},
+  organization={IEEE}
 }
 ```
