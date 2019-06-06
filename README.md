@@ -52,6 +52,10 @@ You can choose between the following models:
 * `GCN-based`: gcn_vae_epinion.py
 * `GCN-VAE-based`: gcn_epinion.py
 
+## Question
+
+If you have any question, please feel free to contact me. Email is good for me. 
+
 ## Cite
 
 Please cite our paper if you use this code in your own work:
